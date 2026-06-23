@@ -16,6 +16,7 @@ export function Footer() {
         <a className="font-semibold" href="https://github.com/TiredTiddles">TiredTiddles</a>{" "}
         <a className="font-semibold" href="https://github.com/mewomewox9">mewomewo</a>{" "}
         <a className="font-semibold" href="https://github.com/zxxz999">zxxz999</a>
+        <a className="font-semibold" href="https://github.com/LachlanTam">LachlanTam</a>
       </div>
     </footer>
   )
