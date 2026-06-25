@@ -6,6 +6,8 @@ export function Header() {
       <a href="/about">about</a>
       {" | "}
       <a href="/contact">contact us</a>
+      {" | "}
+      <a href="/gallery">gallery</a>
     </header>
   )
 }
