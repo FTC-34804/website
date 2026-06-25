@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="flex min-h-full flex-1 flex-col justify-between p-4 font-mono">
       <section>
-        <Header/>
+        <Header page="contact"/>
 
         <div className="m-2">
           <h1 className="text-2xl font-bold">contact</h1>

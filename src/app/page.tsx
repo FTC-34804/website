@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex min-h-full flex-1 flex-col justify-between p-4 font-mono">
       <section>
-        <Header/>
+        <Header page="home"/>
 
         <div className="m-2">
           <h1 className="text-2xl font-bold">hello</h1>

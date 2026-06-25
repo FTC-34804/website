@@ -5,7 +5,7 @@ export default function Gallery() {
   return (
     <div className="flex min-h-full flex-1 flex-col justify-between p-4 font-mono">
       <section>
-        <Header/>
+        <Header page="gallery"/>
 
         <div className="m-2">
           <h1 className="text-2xl font-bold">gallery</h1>
