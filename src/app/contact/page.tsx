@@ -1,7 +1,7 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
 
-export default function About() {
+export default function Contact() {
   return (
     <div className="flex min-h-full flex-1 flex-col justify-between p-4 font-mono">
       <section>
