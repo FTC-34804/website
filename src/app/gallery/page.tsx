@@ -1,5 +1,7 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
+import { UploadDialog } from "./UploadDialog";
+import { GalleryView } from "./GalleryView";
 
 export default function Gallery() {
   return (
@@ -10,6 +12,10 @@ export default function Gallery() {
         <div className="m-2">
           <h1 className="text-2xl font-bold">gallery</h1>
         </div>
+
+        <GalleryView/>
+
+        <UploadDialog/>
       </section>
 
       <section>
