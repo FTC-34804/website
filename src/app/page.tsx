@@ -11,13 +11,6 @@ export default function Home() {
         <div className="m-2">
           <h1 className="text-2xl font-bold">hello</h1>
           <p>we are a robotics team from sydney, australia</p>
-          <Image
-            src="/thumbup.webp"
-            alt="thumbs up icon"
-            width={128}
-            height={128}
-            priority
-          />
         </div>
       </section>
 
