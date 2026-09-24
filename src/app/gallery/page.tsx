@@ -1,6 +1,5 @@
 import { Header } from "../components/Header";
 import { Footer } from "../components/Footer";
-import { UploadDialog } from "./UploadDialog";
 import { GalleryView } from "./GalleryView";
 
 export default function Gallery() {
@@ -15,7 +14,6 @@ export default function Gallery() {
 
         <GalleryView/>
 
-        <UploadDialog/>
       </section>
 
       <section>
